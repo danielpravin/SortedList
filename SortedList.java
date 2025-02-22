@@ -1,5 +1,3 @@
-package org.projectwork;
-
 import java.util.LinkedList;
 import java.util.Collections;
 import java.util.Scanner;
